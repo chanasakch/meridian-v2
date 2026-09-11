@@ -3,7 +3,7 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 /*
- * Design tokens, adapted from a reference system-design document:
+ * Design tokens. See docs/DESIGN_SYSTEM.md for the full reference:
  * - Neutral-first base (zinc), color reserved for exactly one brand accent
  *   (emerald) plus a fixed, named set of semantic status colors (risk
  *   low/medium/high) — never a color introduced for a one-off need.
